@@ -5,4 +5,10 @@ langchain-openai
 langchain-core
 pandas
 pillow
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn
+numpy
 
